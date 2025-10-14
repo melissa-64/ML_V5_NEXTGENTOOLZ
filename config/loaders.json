@@ -146,6 +146,21 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "ngtz-v4",
+            "name": "NGTZ V4",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/ngtzv4/NgtzV4.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "",
+            "instructions": "",
+            "contentType": "executable",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
