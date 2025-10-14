@@ -156,11 +156,12 @@
             "imageUrl": "",
             "productUrl": "",
             "instructions": "",
-            "contentType": "executable",
+            "contentType": "web_downloadable",
             "systemRequirement": {
                 "enabled": false,
                 "requirements": []
-            }
+            },
+            "version": "1.0"
         }
     ]
 }
