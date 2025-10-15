@@ -135,9 +135,9 @@
         },
         {
             "id": "v5-internal",
-            "name": "v5 internal",
+            "name": "Zenith Internal",
             "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/v5/t10_zlv2_client.exe",
+            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/zenith/T10_client.exe",
             "status": "online",
             "imageUrl": "",
             "productUrl": "",
