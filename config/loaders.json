@@ -162,6 +162,21 @@
                 "requirements": []
             },
             "version": "1.0"
+        },
+        {
+            "id": "raspcheq",
+            "name": "RASPCHEQ",
+            "categoryId": "others",
+            "downloadUrl": "https://api.cloud.anewvision.fr/647529877305819137/loader/RASPCHEQ.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/647529877305819137/bilder/raspcheq.png",
+            "productUrl": "",
+            "instructions": "",
+            "contentType": "executable",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
